@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/cards-war/static/css/main.f26b0ecf.chunk.css",
-    "main.js": "/cards-war/static/js/main.c0d22a90.chunk.js",
-    "main.js.map": "/cards-war/static/js/main.c0d22a90.chunk.js.map",
+    "main.js": "/cards-war/static/js/main.f4a8c226.chunk.js",
+    "main.js.map": "/cards-war/static/js/main.f4a8c226.chunk.js.map",
     "runtime-main.js": "/cards-war/static/js/runtime-main.a3d0fe74.js",
     "runtime-main.js.map": "/cards-war/static/js/runtime-main.a3d0fe74.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/cards-war/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.638ecb2e.chunk.js": "/cards-war/static/js/2.638ecb2e.chunk.js",
-    "static/js/2.638ecb2e.chunk.js.map": "/cards-war/static/js/2.638ecb2e.chunk.js.map",
+    "static/js/2.95d9c53c.chunk.js": "/cards-war/static/js/2.95d9c53c.chunk.js",
+    "static/js/2.95d9c53c.chunk.js.map": "/cards-war/static/js/2.95d9c53c.chunk.js.map",
     "static/js/3.bdcfb55a.chunk.js": "/cards-war/static/js/3.bdcfb55a.chunk.js",
     "static/js/3.bdcfb55a.chunk.js.map": "/cards-war/static/js/3.bdcfb55a.chunk.js.map",
     "index.html": "/cards-war/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/cards-war/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.f26b0ecf.chunk.css.map": "/cards-war/static/css/main.f26b0ecf.chunk.css.map",
-    "static/js/2.638ecb2e.chunk.js.LICENSE.txt": "/cards-war/static/js/2.638ecb2e.chunk.js.LICENSE.txt"
+    "static/js/2.95d9c53c.chunk.js.LICENSE.txt": "/cards-war/static/js/2.95d9c53c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3d0fe74.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.638ecb2e.chunk.js",
+    "static/js/2.95d9c53c.chunk.js",
     "static/css/main.f26b0ecf.chunk.css",
-    "static/js/main.c0d22a90.chunk.js"
+    "static/js/main.f4a8c226.chunk.js"
   ]
 }
